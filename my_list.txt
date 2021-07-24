@@ -1,0 +1,8 @@
+"Learning Goals"
+"Introduction"
+"Getting Started"
+"Create a test file"
+"Make a list in text file"
+"Create an Ordered HTML list"
+"Create an Unorderes HTML list"
+"Add description paragraph"
